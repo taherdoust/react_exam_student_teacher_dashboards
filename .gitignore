@@ -1,0 +1,21 @@
+# Node.js (server)
+node_modules/
+.env
+*.log
+dist/
+build/
+*.sqlite
+*.db
+.DS_Store
+
+# Vite + React (client)
+client/node_modules/
+client/dist/
+client/.vite/
+client/.env
+
+# macOS
+**/.DS_Store
+
+# Windows
+Thumbs.db
